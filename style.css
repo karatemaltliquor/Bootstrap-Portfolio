@@ -1,0 +1,15 @@
+* {
+    line-height: 30px;
+}
+
+#dirtyQ { width: 200px; height: 200px;
+    padding-right: 20px; float: left;
+    padding-top: 10px;
+}
+
+body {
+    background-image: url("assets/gravel.png");
+    margin: 0;
+}
+
+#cQ { text-align: center; color: lightgrey;}
